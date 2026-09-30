@@ -1,0 +1,13 @@
+{
+  "name": "onyx-hub-access-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "24/7 Onyx Hub Discord reaction verification bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "14.27.0"
+  }
+}
